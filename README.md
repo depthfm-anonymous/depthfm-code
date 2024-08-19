@@ -28,11 +28,10 @@ This setup was tested with `Ubuntu 22.04.4 LTS`, `CUDA Version: 12.2`, and `Pyth
 First, clone the github repo...
 
 
-Then download the weights via
+Plz download the weights from
 
-```bash
-link_to_be_replaced
-```
+[Google drive of the weights](https://drive.google.com/drive/folders/1m0q8Dj24n96Q-anR7XmAgVUag7VJyzca?usp=sharing)
+
 
 Now you have either the option to setup a virtual environment and install all required packages with `pip`
 
