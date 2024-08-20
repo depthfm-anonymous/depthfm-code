@@ -26,9 +26,11 @@ On standard benchmarks of complex natural scenes, our approach achieves competit
 This setup was tested with `Ubuntu 22.04.4 LTS`, `CUDA Version: 12.2`, and `Python 3.11.5`.
 
 First, clone the github repo...
+```bash
+git clone https://github.com/depthfm-anonymous/depthfm-code.git
+```
 
-
-Plz download the weights from
+then download the weights from
 
 [Google drive of the weights](https://drive.google.com/drive/folders/1m0q8Dj24n96Q-anR7XmAgVUag7VJyzca?usp=sharing)
 

@@ -1,3 +1,3 @@
-Download the weights in this specific folder via
+Download the weights in this specific folder through google drive:
 
-link_to_be_replaced
+[Google drive of the weights](https://drive.google.com/drive/folders/1m0q8Dj24n96Q-anR7XmAgVUag7VJyzca?usp=sharing)
